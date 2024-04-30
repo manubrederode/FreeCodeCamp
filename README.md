@@ -6,10 +6,10 @@ Repository to store [FreeCodeCamp](https://www.freecodecamp.org/) projects.
 
 https://www.freecodecamp.org/ManuBrederode
 
-## :mortar_board: Certifications
-| Certifications | Path |
+## 📚 Learnings
+| FreeCodeCamp Learning | Path |
 |-------|---------|
-| Legacy JavaScript Algorithms and Data Structures | [Legacy-JS]() |
+| Legacy JavaScript Algorithms and Data Structures | [Legacy-JS](Legacy-JS) |
 
-## 📚 Documentations
-- 
+## :mortar_board: My Certifications
+[Legacy-JS](https://www.freecodecamp.org/certification/ManuBrederode/javascript-algorithms-and-data-structures) 
